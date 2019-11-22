@@ -1,8 +1,10 @@
 # cors
 
-简单粗暴的解决GoWeb跨域
+[![Go Report](https://goreportcard.com/badge/github.com/golib2020/cors)](https://goreportcard.com/report/github.com/golib2020/cors)
 
-> 使用方式：只要实现了`http.handler`接口即可轻松对接
+`cors`它简单粗暴的解决了GoWeb跨域问题
+
+使用方式：只要实现了`http.handler`接口即可轻松对接
 
 # go默认web服务使用
 
